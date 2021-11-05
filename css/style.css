@@ -1,0 +1,142 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.wrapper {
+    max-width: 1600px;
+}
+
+.navbar-nav a {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+
+.navbar-brand {
+    position: relative;
+    left: 121px;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.containers {
+    padding-top: 50px;
+
+}
+
+.plank {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 133px;
+    top: 34px;
+    background-color: darkcyan;
+    height: 3px;
+    width: 237px;
+}
+
+
+.container__title {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 95px;
+    column-gap: 20px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.4px;
+    color: #1652AC;
+}
+
+
+.container__title p {
+    position: relative;
+    top: 57px;
+    padding-top: 28px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #020303;
+}
+
+.second_container__title {
+    display: flex;
+    position: relative;
+    bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2.42px;
+    color: #1652AC;
+    text-align: center;
+}
+
+.second_container__title span {
+    position: relative;
+    right: 25px;
+    top: 17px;
+}
+
+.second_container__title p {
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 32px;
+    color: #45494F;
+}
+
+
+.second_container__image {
+    position: relative;
+    bottom: 45px;
+}
+
+.box {
+    background: linear-gradient(180deg, #163DA2 0%, #003584 100%);
+}
+
+
+
+.box__title {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 2.42px;
+    color: #FBFDFF;
+}
+
+.box__title p {
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    color: #FBFDFF;
+}
+
+
+.menu__sandwich {
+    width: 40px;
+    height: 40px;
+    display: none;
+}
+
+
+
+
+
+
+
+
